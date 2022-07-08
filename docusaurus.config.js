@@ -12,6 +12,7 @@ const config = {
   baseUrl: '/MoGakso-TIL/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -36,7 +37,6 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        
         theme: {
           customCss: require.resolve('./src/css/global.scss'),
         },
@@ -45,10 +45,18 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/1789.png',
       navbar: {
         title: 'MoGakso Study',
+        logo: {
+          alt: 'Site Logo',
+          src: 'img/Mogakso.png',
+          href: 'https://wisesaturn.github.io/MoGakso-TIL',
+          target: '_self',
+          width: 32,
+          height: 32,
+        },
         items: [
           {
             type: 'doc',
@@ -56,6 +64,7 @@ const config = {
             position: 'left',
             label: 'Study',
           },
+          {to: '/blog', label: 'Blog', position: 'left'},
           { 
             to: 'https://github.com/wisesaturn', 
             label: 'GitHub',
@@ -65,6 +74,13 @@ const config = {
       },
       footer: {
         style: 'light',
+        logo: {
+          alt: 'Mogakso 1789 Teams Logo',
+          src: 'img/1789.png',
+          href: 'https://github.com/MoGakSo-Ajou',
+          width: 113,
+          height: 64,
+        },
         links: [
           {
             title: 'More',
