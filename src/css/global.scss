@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Apple';
+  src: url('../font/AppleSDGothicNeoB.ttf') format('truetype');
+  src: url('../font/AppleSDGothicNeoEB.ttf') format('truetype');
+  src: url('../font/AppleSDGothicNeoH.ttf') format('truetype');
+  src: url('../font/AppleSDGothicNeoL.ttf') format('truetype');
+  src: url('../font/AppleSDGothicNeoM.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Apple';
+}
+
+.navbar__inner {
+  a {
+    --ifm-navbar-item-padding-vertical: 0rem;
+    padding-top: .25rem !important;
+  }
+}
+
+:root {
+  --ifm-color-primary: #2883df;
+  --ifm-color-primary-dark: #2576c8;
+  --ifm-color-primary-darker: #216db8;
+  --ifm-color-primary-darkest: #1a5086;
+  --ifm-color-primary-light: #2883df;
+  --ifm-color-primary-lighter: #2d8be9;
+  --ifm-color-primary-lightest: #2b95ff;
+  --ifm-menu-color-background-active:#d2e5f7;
+  --ifm-menu-color-background-hover:#eff4f9;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #28bedf;
+  --ifm-color-primary-dark: #269ed2;
+  --ifm-color-primary-darker: #2595c4;
+  --ifm-color-primary-darkest: #2185af;
+  --ifm-color-primary-light: #28bedf;
+  --ifm-color-primary-lighter: #2cc7ea;
+  --ifm-color-primary-lightest: #37d5f8;
+  --ifm-menu-color-background-active: #818b94;
+  --ifm-menu-color-background-hover: #696f76;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
