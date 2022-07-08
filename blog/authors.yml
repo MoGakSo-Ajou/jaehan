@@ -1,5 +1,17 @@
 jaehan:
   name: 송재한
-  title: 모각소 '1789' 팀장
+  title: 모각소 '1789' 팀장 / 미디어 17
   url: https://github.com/wisesaturn
   image_url: https://github.com/wisesaturn.png
+
+jiyoung:
+  name: 박지영
+  title: 모각소 '1789' 팀원 / 미디어 19
+  url: https://github.com/arida0511
+  image_url: https://github.com/arida0511.png
+
+hyunsu:
+  name: 하현수
+  title: 모각소 '1789' 팀원 / 미디어 18
+  url: https://github.com/hyeonsu47
+  image_url: https://github.com/hyeonsu47.png
