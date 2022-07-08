@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MoGakso Study',
   tagline: `모각소 모임에서 공부한 내용을 정리해보았습니다`,
-  url: 'https://wisesaturn.github.io',
-  baseUrl: '/MoGakso-TIL/',
+  url: 'https://MoGakSo-Ajou.github.io/',
+  baseUrl: '/jaehan/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'wisesaturn', // Usually your GitHub org/user name.
-  projectName: 'MoGakso-TIL', // Usually your repo name.
+  organizationName: 'MoGakso-Ajou', // Usually your GitHub org/user name.
+  projectName: 'jaehan', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -52,7 +52,7 @@ const config = {
         logo: {
           alt: 'Site Logo',
           src: 'img/Mogakso.png',
-          href: 'https://wisesaturn.github.io/MoGakso-TIL',
+          href: 'https://MoGakSo-Ajou.github.io/jaehan/',
           target: '_self',
           width: 32,
           height: 32,
