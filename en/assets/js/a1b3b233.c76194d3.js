@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwisesaturn_til=self.webpackChunkwisesaturn_til||[]).push([[73],{7172:s=>{s.exports=JSON.parse('{"label":"\ubaa8\uc784","permalink":"/MoGakso-TIL/en/blog/tags/\ubaa8\uc784","allTagsPath":"/MoGakso-TIL/en/blog/tags","count":3}')}}]);
