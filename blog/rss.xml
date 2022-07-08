@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>MoGakso Study Blog</title>
-        <link>https://wisesaturn.github.io/MoGakso-TIL/blog</link>
+        <link>https://MoGakSo-Ajou.github.io/jaehan/blog</link>
         <description>MoGakso Study Blog</description>
         <lastBuildDate>Thu, 07 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>ko</language>
         <item>
             <title><![CDATA[1회차 모각소 결과]]></title>
-            <link>https://wisesaturn.github.io/MoGakso-TIL/blog/first-study-after</link>
+            <link>https://MoGakSo-Ajou.github.io/jaehan/blog/first-study-after</link>
             <guid>first-study-after</guid>
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[활동 내용]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[1회차 모각소 계획]]></title>
-            <link>https://wisesaturn.github.io/MoGakso-TIL/blog/first-study-before</link>
+            <link>https://MoGakSo-Ajou.github.io/jaehan/blog/first-study-before</link>
             <guid>first-study-before</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[모임 계획]]></description>
@@ -30,11 +30,11 @@
         </item>
         <item>
             <title><![CDATA[1회차 모각소 모임]]></title>
-            <link>https://wisesaturn.github.io/MoGakso-TIL/blog/first-study</link>
+            <link>https://MoGakSo-Ajou.github.io/jaehan/blog/first-study</link>
             <guid>first-study</guid>
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[시간30 ~ 22:30]]></description>
-            <content:encoded><![CDATA[<div class="admonition admonition-info alert alert--info"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</h5></div><div class="admonition-content"><p><strong>시간</strong> : 2022-07-06 19:30 ~ 22:30</p><p><strong>장소</strong> : 탐앤탐스</p><p><strong>내용</strong> : 모각소 첫 모임</p></div></div><p><img loading="lazy" alt="1회차 단체사진" src="/MoGakso-TIL/assets/images/1회차-e4b600dc3ba85ce0e2453a3cad4ed265.jpg" width="3648" height="2736" class="img_ev3q"></p><hr><p>각 멤버는 다음과 같은 <strong>목표</strong>를 가지고 스터디에 임했습니다.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="하현수">하현수<a class="hash-link" href="#하현수" title="제목으로 바로 가기">​</a></h3><ul><li>HTML / CSS 시작하기</li><li>HTML / CSS 핵심개념</li><li><a href="https://velog.io/@skyhs990609/%EB%AA%A8%EA%B0%81%EC%86%8C-1%EC%A3%BC%EC%B0%A8-76-TIL" target="_blank" rel="noopener noreferrer">참고</a></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="박지영">박지영<a class="hash-link" href="#박지영" title="제목으로 바로 가기">​</a></h3><ul><li>Git과 GitHub 시작하기 인프런 강의 시청</li><li><a href="https://github.com/MoGakSo-Ajou/Parkjiyoung/wiki/%EB%AA%A8%EA%B0%81%EC%86%8C-1%ED%9A%8C%EC%B0%A8-%EA%B2%B0%EA%B3%BC" target="_blank" rel="noopener noreferrer">참고</a></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="송재한">송재한<a class="hash-link" href="#송재한" title="제목으로 바로 가기">​</a></h3><ul><li>모각소용 TIL 제작</li><li>개인용 TIL 제작 (추후에 더 꾸밀 예정)</li><li>파란학기 '유클러버스' Storybook으로 디자인 정리</li><li><a href="http://localhost:3000/MoGakso-TIL/study" target="_blank" rel="noopener noreferrer">참고</a></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<div class="admonition admonition-info alert alert--info"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</h5></div><div class="admonition-content"><p><strong>시간</strong> : 2022-07-06 19:30 ~ 22:30</p><p><strong>장소</strong> : 탐앤탐스</p><p><strong>내용</strong> : 모각소 첫 모임</p></div></div><p><img loading="lazy" alt="1회차 단체사진" src="/jaehan/assets/images/1회차-e4b600dc3ba85ce0e2453a3cad4ed265.jpg" width="3648" height="2736" class="img_ev3q"></p><hr><p>각 멤버는 다음과 같은 <strong>목표</strong>를 가지고 스터디에 임했습니다.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="하현수">하현수<a class="hash-link" href="#하현수" title="제목으로 바로 가기">​</a></h3><ul><li>HTML / CSS 시작하기</li><li>HTML / CSS 핵심개념</li><li><a href="https://velog.io/@skyhs990609/%EB%AA%A8%EA%B0%81%EC%86%8C-1%EC%A3%BC%EC%B0%A8-76-TIL" target="_blank" rel="noopener noreferrer">참고</a></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="박지영">박지영<a class="hash-link" href="#박지영" title="제목으로 바로 가기">​</a></h3><ul><li>Git과 GitHub 시작하기 인프런 강의 시청</li><li><a href="https://github.com/MoGakSo-Ajou/Parkjiyoung/wiki/%EB%AA%A8%EA%B0%81%EC%86%8C-1%ED%9A%8C%EC%B0%A8-%EA%B2%B0%EA%B3%BC" target="_blank" rel="noopener noreferrer">참고</a></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="송재한">송재한<a class="hash-link" href="#송재한" title="제목으로 바로 가기">​</a></h3><ul><li>모각소용 TIL 제작</li><li>개인용 TIL 제작 (추후에 더 꾸밀 예정)</li><li>파란학기 '유클러버스' Storybook으로 디자인 정리</li><li><a href="http://localhost:3000/MoGakso-TIL/study" target="_blank" rel="noopener noreferrer">참고</a></li></ul>]]></content:encoded>
             <category>모임</category>
             <category>단체기록</category>
         </item>
