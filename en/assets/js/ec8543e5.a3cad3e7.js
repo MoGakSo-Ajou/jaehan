@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwisesaturn_til=self.webpackChunkwisesaturn_til||[]).push([[381],{982:a=>{a.exports=JSON.parse('{"label":"\ub2e8\uccb4\uae30\ub85d","permalink":"/jaehan/en/blog/tags/\ub2e8\uccb4\uae30\ub85d","allTagsPath":"/jaehan/en/blog/tags","count":1}')}}]);
