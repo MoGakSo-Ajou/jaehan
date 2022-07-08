@@ -10,6 +10,11 @@
 body {
   font-family: 'Apple';
   letter-spacing : -.5px;
+  text-align : justify;
+}
+
+p {
+  text-indent: 10px;
 }
 
 .navbar__inner {
