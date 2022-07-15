@@ -3,6 +3,7 @@ slug: first-study-after
 title: 1회차 모각소 결과
 authors: jaehan
 tags: [모임, 개인기록]
+date: 2022-07-07T00:00
 ---
 
 ### 활동 내용

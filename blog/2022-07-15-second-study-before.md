@@ -3,6 +3,7 @@ slug: second-study-before
 title: 2회차 모각소 계획
 authors: jaehan
 tags: [모임, 개인기록]
+date: 2022-07-15T13:10
 ---
 
 ### 모임 계획

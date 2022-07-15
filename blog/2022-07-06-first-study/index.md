@@ -3,6 +3,7 @@ slug: first-study
 title: 1회차 모각소 모임
 authors: [jaehan, hyunsu, jiyoung]
 tags: [모임, 단체기록]
+date: 2022-07-06T23:30
 ---
 
 :::info

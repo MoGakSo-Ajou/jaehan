@@ -3,6 +3,7 @@ slug: first-study-before
 title: 1회차 모각소 계획
 authors: jaehan
 tags: [모임, 개인기록]
+date: 2022-07-06T18:10
 ---
 
 ### 모임 계획
