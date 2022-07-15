@@ -30,8 +30,8 @@ const config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     'docusaurus-plugin-sass',
+    '@docusaurus/theme-live-codeblock',
   ],
-
   presets: [
     [
       'classic',
@@ -48,7 +48,6 @@ const config = {
       
     ],
   ],
-
   themeConfig:
     ({
       image: 'img/1789.png',
@@ -111,6 +110,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      liveCodeBlock: {
+       playgroundPosition: 'bottom',
+    },
     }),
 };
 

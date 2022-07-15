@@ -13,6 +13,14 @@ body {
   text-align : justify;
 }
 
+strong {
+  color : lightseagreen;
+}
+
+blockquote > p {
+  text-indent : -5px;
+  color : lightseagreen;
+}
 p {
   text-indent: 10px;
 }

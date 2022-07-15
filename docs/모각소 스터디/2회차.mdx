@@ -5,15 +5,67 @@ title: "2회차"
 
 :::info
 
-JS 서버 통신 공부 (AJAX), 개인용 블로그 개발
+JS 개념 Recap, JS 서버 통신 공부 (AJAX), 개인용 블로그 개발
 
 :::
 
 ---
 
-## 제목
+## JavaScript
 
-- 공부 내용
+- 브라우저를 조작할 수 있는 언어는 유일하게 **'Javascript'** 뿐입니다. 그런 **Javascript**를 통해 브라우저를 관리하여 웹페이지 기능을 만듭니다.
+- 관리를 하기 위해선 우선 브라우저의 **두 가지 모델**을 알아야 합니다.
+
+## Browser Model
+
+- **DOM(Document Object Model 의 약자)**
+
+  - **문서**에 대한 모든 내용을 담고있는 Object, Document에 관련 된 내용 모두!
+  - 문서 즉 열려진 페이지에 대한 정보를 따로 객체화 시켜서 관리함
+    > HTML
+
+- **BOM(Brouser Object Model 의 약자)**
+  - **브라우저**에 대한 모든 내용을 담고있는 Object, Document에 관련 된 내용 모두!
+  - 뒤로가기, 북마크, 즐겨찾기, 히스토리, URL정보 등
+  - 브라우저가 가지고 있는 정보를 따로 객체화 시켜서 관리함
+    > navigator, screen, location, frames, history, XHR 등
+
+### DOM(Document Object Model)
+
+- 문서를 다루기 위한 문서 프로그래밍 인터페이스 Tree Model
+  - 문서 구조화 후 구조화된 구성 요소를 하나의 객체로 취급
+
+#### 주요 객체
+
+- **window** : DOM을 표현하는 창, 가장 최상위 객체
+- **document** : 페이지 컨텐츠의 Entry Point 역할을 하며, 문서의 전체적인 태그를 포함
+
+### BOM (Browser Object Model)
+
+-
+
+<!-- ```jsx live
+function Clock(props) {
+  const [date, setDate] = useState(new Date());
+  useEffect(() => {
+    const timerID = setInterval(() => tick(), 1000);
+
+    return function cleanup() {
+      clearInterval(timerID);
+    };
+  });
+
+  function tick() {
+    setDate(new Date());
+  }
+
+  return (
+    <div>
+      <h2>It is {date.toLocaleTimeString()}.</h2>
+    </div>
+  );
+}
+``` -->
 
 ---
 
@@ -21,6 +73,8 @@ JS 서버 통신 공부 (AJAX), 개인용 블로그 개발
 
 :::note
 
-- 결과 내용
+- [ ] JS 개념 복습
+- [ ] JS 서버 통신 공부 (AJAX)
+- [ ] 개인용 블로그 개발 (Next.js으로 레이아웃 세팅)
 
 :::
