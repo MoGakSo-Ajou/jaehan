@@ -40,7 +40,12 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/global.scss'),
         },
+        blog: {
+          blogSidebarTitle: '모든 게시물',
+          blogSidebarCount: 'ALL',
+        },
       }),
+      
     ],
   ],
 
