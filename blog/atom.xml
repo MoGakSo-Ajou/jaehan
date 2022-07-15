@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MoGakSo-Ajou.github.io/jaehan/blog</id>
     <title>MoGakso Study Blog</title>
-    <updated>2022-07-07T00:00:00.000Z</updated>
+    <updated>2022-07-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MoGakSo-Ajou.github.io/jaehan/blog"/>
     <subtitle>MoGakso Study Blog</subtitle>
     <icon>https://MoGakSo-Ajou.github.io/jaehan/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2회차 모각소 계획]]></title>
+        <id>second-study-before</id>
+        <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/second-study-before"/>
+        <updated>2022-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[모임 계획]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="모임-계획">모임 계획<a class="hash-link" href="#모임-계획" title="제목으로 바로 가기">​</a></h3><ul><li>JS 서버 통신 공부 (AJAX)</li><li>개인용 블로그 개발 (Next.js 환경설정 및 레이아웃 만들기)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><ul><li>본격적으로 API에 관한 학습을 진행할 예정입니다. 학습 후 실습에 관한 결과물은 지속적으로 모각소 Repository에 저장해놓으려고 합니다.</li><li>디자인에 관한 지식을 쌓다보니 데이터를 다루는 데 있어서 아직 미숙하여 미숙한 부분을 보완하기 위해 지속적으로 노력하려고 합니다!</li></ul>]]></content>
+        <author>
+            <name>송재한</name>
+            <uri>https://github.com/wisesaturn</uri>
+        </author>
+        <category label="모임" term="모임"/>
+        <category label="개인기록" term="개인기록"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1회차 모각소 결과]]></title>
         <id>first-study-after</id>
