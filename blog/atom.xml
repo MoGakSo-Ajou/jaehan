@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MoGakSo-Ajou.github.io/jaehan/blog</id>
     <title>MoGakso Study Blog</title>
-    <updated>2022-07-20T10:00:00.000Z</updated>
+    <updated>2022-08-03T10:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://MoGakSo-Ajou.github.io/jaehan/blog"/>
     <subtitle>MoGakso Study Blog</subtitle>
     <icon>https://MoGakSo-Ajou.github.io/jaehan/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4회차 모각소 모임]]></title>
+        <id>fourth-study</id>
+        <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/fourth-study"/>
+        <updated>2022-08-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[시간00 ~ 13:00]]></summary>
+        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-info alert alert--info admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>정보</div><div class="admonitionContent_S0QG"><p><strong>시간</strong> : 2022-08-03 10:00 ~ 13:00</p><p><strong>장소</strong> : 비대면 (Google Meets)</p><p><strong>내용</strong> : 모각소 네 번째 모임</p></div></div><p><img loading="lazy" alt="4회차 단체사진" src="/jaehan/assets/images/img-36bc58039da1a16cb89533ccf77f1d02.png" width="1920" height="1080" class="img_ev3q"></p><hr><p>각 멤버는 다음과 같은 <strong>목표</strong>를 가지고 스터디에 임했습니다.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="하현수">하현수<a class="hash-link" href="#하현수" title="제목으로 바로 가기">​</a></h3><ul><li>HTML/CSS 핵심개념 정리 및 응용</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="박지영">박지영<a class="hash-link" href="#박지영" title="제목으로 바로 가기">​</a></h3><ul><li>&lt;스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술&gt; 섹션 3~4 강의 수강 완료</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="송재한">송재한<a class="hash-link" href="#송재한" title="제목으로 바로 가기">​</a></h3><ul><li>JS 개념 공부 및 정리</li><li>네이버 부스트코스 풀스택 강좌 듣기</li></ul>]]></content>
+        <author>
+            <name>송재한</name>
+            <uri>https://github.com/wisesaturn</uri>
+        </author>
+        <author>
+            <name>하현수</name>
+            <uri>https://github.com/hyeonsu47</uri>
+        </author>
+        <author>
+            <name>박지영</name>
+            <uri>https://github.com/arida0511</uri>
+        </author>
+        <category label="모임" term="모임"/>
+        <category label="단체기록" term="단체기록"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4회차 모각소 계획]]></title>
+        <id>fourth-study-before</id>
+        <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/fourth-study-before"/>
+        <updated>2022-08-03T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[모임 계획]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="모임-계획">모임 계획<a class="hash-link" href="#모임-계획" title="제목으로 바로 가기">​</a></h3><ul><li>JS 공부 정리</li><li>네이버 부스트코스 풀스택 강좌 듣기</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><ul><li>4회차 부터는 실습에 들어가려고 계획을 짰었지만 단시간 내에 JS를 통달할 정도로 완전히 공부하기는 어렵다고 판단하였습니다.</li><li>그래서 남은 시간동안 JS 공부와 네이버 부스트코스인 '웹 풀스택 강좌'를 들으면서 기본기를 쌓아가보려고 합니다.</li></ul>]]></content>
+        <author>
+            <name>송재한</name>
+            <uri>https://github.com/wisesaturn</uri>
+        </author>
+        <category label="모임" term="모임"/>
+        <category label="개인기록" term="개인기록"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3회차 모각소 결과]]></title>
+        <id>third-study-after</id>
+        <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/third-study-after"/>
+        <updated>2022-07-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[모임 계획]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="모임-계획">모임 계획<a class="hash-link" href="#모임-계획" title="제목으로 바로 가기">​</a></h3><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->JS 개념 공부 및 정리</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><ul><li>JS 공부를 지속적으로 함에도 실습에 적용하지 못했습니다. 기본적인 JS 사용법은 이전부터 알고 있었지만 특히 이론적인 부분은 많이 빈약하다는 걸 깨달았습니다. 다음 회차 때도 이 부분에 대해서 조금 더 보완할 예정입니다.</li></ul>]]></content>
+        <author>
+            <name>송재한</name>
+            <uri>https://github.com/wisesaturn</uri>
+        </author>
+        <category label="모임" term="모임"/>
+        <category label="개인기록" term="개인기록"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3회차 모각소 모임]]></title>
         <id>third-study</id>
@@ -44,6 +94,23 @@
         <category label="개인기록" term="개인기록"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2회차 모각소 결과]]></title>
+        <id>second-study-after</id>
+        <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/second-study-after"/>
+        <updated>2022-07-15T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[활동 내용]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="활동-내용">활동 내용<a class="hash-link" href="#활동-내용" title="제목으로 바로 가기">​</a></h3><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->JS 서버 통신 공부 (AJAX)</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->개인용 블로그 개발 (Next.js 환경설정 및 레이아웃 만들기)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><p>TIL 설정 추가와 JS 개념을 다시 한 번 복습해보았습니다. 정리하는데 시간이 소요되어서 블로그에 많은 내용을 담지는 못했습니다.
+3회차 때 2회차 배운 내용 정리 및 JS 개념 학습을 완료하려고 합니다.
+생각보다 3시간이라는 시간이 많다고 생각이 들었지만 학습을 거듭할수록 너무나 부족하다는 걸 깨닫는 중입니다.
+지속적으로 모임 이전에 목표했던 바를 이루기 위해 틈틈이 시간내서 학습 진도를 따라가려고 노력해보겠습니다.</p>]]></content>
+        <author>
+            <name>송재한</name>
+            <uri>https://github.com/wisesaturn</uri>
+        </author>
+        <category label="모임" term="모임"/>
+        <category label="개인기록" term="개인기록"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2회차 모각소 모임]]></title>
         <id>second-study</id>
         <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/second-study"/>
@@ -64,23 +131,6 @@
         </author>
         <category label="모임" term="모임"/>
         <category label="단체기록" term="단체기록"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2회차 모각소 결과]]></title>
-        <id>second-study-after</id>
-        <link href="https://MoGakSo-Ajou.github.io/jaehan/blog/second-study-after"/>
-        <updated>2022-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[활동 내용]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="활동-내용">활동 내용<a class="hash-link" href="#활동-내용" title="제목으로 바로 가기">​</a></h3><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->JS 서버 통신 공부 (AJAX)</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->개인용 블로그 개발 (Next.js 환경설정 및 레이아웃 만들기)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><p>TIL 설정 추가와 JS 개념을 다시 한 번 복습해보았습니다. 정리하는데 시간이 소요되어서 블로그에 많은 내용을 담지는 못했습니다.
-3회차 때 2회차 배운 내용 정리 및 JS 개념 학습을 완료하려고 합니다.
-생각보다 3시간이라는 시간이 많다고 생각이 들었지만 학습을 거듭할수록 너무나 부족하다는 걸 깨닫는 중입니다.
-지속적으로 모임 이전에 목표했던 바를 이루기 위해 틈틈이 시간내서 학습 진도를 따라가려고 노력해보겠습니다.</p>]]></content>
-        <author>
-            <name>송재한</name>
-            <uri>https://github.com/wisesaturn</uri>
-        </author>
-        <category label="모임" term="모임"/>
-        <category label="개인기록" term="개인기록"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[2회차 모각소 계획]]></title>
