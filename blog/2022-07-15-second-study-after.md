@@ -3,7 +3,7 @@ slug: second-study-after
 title: 2회차 모각소 결과
 authors: jaehan
 tags: [모임, 개인기록]
-date: 2022-07-15T14:00
+date: 2022-07-15T18:30
 ---
 
 ### 활동 내용
