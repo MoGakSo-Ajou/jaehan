@@ -4,10 +4,40 @@
         <title>MoGakso Study Blog</title>
         <link>https://MoGakSo-Ajou.github.io/jaehan/blog</link>
         <description>MoGakso Study Blog</description>
-        <lastBuildDate>Wed, 03 Aug 2022 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[5회차 모각소 모임]]></title>
+            <link>https://MoGakSo-Ajou.github.io/jaehan/blog/fifth-study</link>
+            <guid>fifth-study</guid>
+            <pubDate>Wed, 10 Aug 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[시간00 ~ 13:00]]></description>
+            <content:encoded><![CDATA[<div class="theme-admonition theme-admonition-info alert alert--info admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>정보</div><div class="admonitionContent_S0QG"><p><strong>시간</strong> : 2022-08-10 10:00 ~ 13:00</p><p><strong>장소</strong> : 비대면 (Google Meets)</p><p><strong>내용</strong> : 모각소 다섯 번째 모임</p></div></div><p><img loading="lazy" alt="5회차 단체사진" src="/jaehan/assets/images/img-aa7c82b57edfa8fc9005b5d72abbc8c9.png" width="1920" height="1080" class="img_ev3q"></p><hr><p>각 멤버는 다음과 같은 <strong>목표</strong>를 가지고 스터디에 임했습니다.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="하현수">하현수<a class="hash-link" href="#하현수" title="제목으로 바로 가기">​</a></h3><ul><li>HTML/CSS 핵심개념 정리 및 응용</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="박지영">박지영<a class="hash-link" href="#박지영" title="제목으로 바로 가기">​</a></h3><ul><li>&lt;스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술&gt; 섹션 5 강의 수강 완료</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="송재한">송재한<a class="hash-link" href="#송재한" title="제목으로 바로 가기">​</a></h3><ul><li>네이버 부스트코스 풀스택 강좌 듣기 (1강)</li></ul>]]></content:encoded>
+            <category>모임</category>
+            <category>단체기록</category>
+        </item>
+        <item>
+            <title><![CDATA[5회차 모각소 계획]]></title>
+            <link>https://MoGakSo-Ajou.github.io/jaehan/blog/fifth-study-before</link>
+            <guid>fifth-study-before</guid>
+            <pubDate>Wed, 10 Aug 2022 09:30:00 GMT</pubDate>
+            <description><![CDATA[모임 계획]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="모임-계획">모임 계획<a class="hash-link" href="#모임-계획" title="제목으로 바로 가기">​</a></h3><ul><li>네이버 부스트코스 풀스택 강좌 듣기 (1강)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><ul><li>5회차 ~ 6회차까지 강의를 6강까지 나와 있는 강의를 모두 듣고 실습을 끝마칠 예정입니다.</li><li>중간에 모각소 모임이 없는 날도 강의를 채워 들어서 커리큘럼을 수료할 계획입니다.</li><li>현재는 1강을 절반까지 밖에 못 들어서 최대한 빠르게 강의를 들으려고 합니다.</li></ul>]]></content:encoded>
+            <category>모임</category>
+            <category>개인기록</category>
+        </item>
+        <item>
+            <title><![CDATA[4회차 모각소 결과]]></title>
+            <link>https://MoGakSo-Ajou.github.io/jaehan/blog/fourth-study-after</link>
+            <guid>fourth-study-after</guid>
+            <pubDate>Wed, 03 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[모임 계획]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="모임-계획">모임 계획<a class="hash-link" href="#모임-계획" title="제목으로 바로 가기">​</a></h3><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->JS 공부 정리</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->네이버 부스트코스 풀스택 강좌 듣기 (1강 절반)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="소감">소감<a class="hash-link" href="#소감" title="제목으로 바로 가기">​</a></h3><ul><li>JS 공부를 참고서나 강의 없이 필요한 부분만 공부를 하다보니 공부 방향이 뜬 느낌이었습니다.</li><li>그래서 네이버 부스트코스인 '웹 풀스택 강좌'를 들으면서 어떻게 웹 프로그래밍이 이루어지는지 전체적인 방향을 잡으려고 했습니다.</li><li>남은 기간 동안 강좌를 들으면서 사이드 프로젝트를 진행하려고 합니다.</li></ul>]]></content:encoded>
+            <category>모임</category>
+            <category>개인기록</category>
+        </item>
         <item>
             <title><![CDATA[4회차 모각소 모임]]></title>
             <link>https://MoGakSo-Ajou.github.io/jaehan/blog/fourth-study</link>

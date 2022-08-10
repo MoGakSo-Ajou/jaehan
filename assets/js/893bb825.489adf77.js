@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwisesaturn_til=self.webpackChunkwisesaturn_til||[]).push([[6709],{2226:e=>{e.exports=JSON.parse('{"permalink":"/jaehan/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/jaehan/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
