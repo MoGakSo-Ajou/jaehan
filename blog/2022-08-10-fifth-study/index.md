@@ -24,7 +24,7 @@ date: 2022-08-10T10:00
 
 ### 하현수
 
-- HTML/CSS 핵심개념 정리 및 응용
+- React 정리 및 학습 (JSX, Props, Components)
 
 ### 박지영
 
